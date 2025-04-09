@@ -1,7 +1,8 @@
 document.addEventListener("DOMContentLoaded", () => {
     const recetas = {
         "tarta-abuela": "../IMG/TartaAbuela.webp",
-        "espagueti-carbonara": "../IMG/espaguetis-carbonara.webp"
+        "espagueti-carbonara": "../IMG/espaguetis-carbonara.webp",
+        "mojito-fresa": "../IMG/mojito-fresa.webp"
     };
 
     // Crear contenedor de imagen
