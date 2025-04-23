@@ -1,7 +1,7 @@
 document.addEventListener("DOMContentLoaded", () => {
     // Poner ruta de la imagen
+    // "id": "Ruta", (El id es el id del html)
     const recetas = {
-        // "id": "Ruta", (El id es el id del html)
         "espagueti-carbonara": "../IMG/espaguetis-carbonara.webp",
         "mojito-fresa": "../IMG/mojito-fresa.webp"
     };
@@ -35,8 +35,6 @@ document.addEventListener("DOMContentLoaded", () => {
             if (recetas[id]) {
                 img.src = recetas[id];
                 modal.style.display = "flex";
-            } else {
-                alert("Lo sentimos no hemos encontrado la imagen de la receta.");
             }
         });
     });
