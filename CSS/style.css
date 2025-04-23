@@ -16,6 +16,18 @@ header {
     padding: 20px;
 }
 
+.logo {
+  max-width: 30%;
+  height: auto;
+  display: block;
+}
+
+header img {
+  max-width: 30%;
+  height: auto;
+  display: block;
+}
+
 h1 {
     color: #6B4F4F;
 }
