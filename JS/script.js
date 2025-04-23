@@ -3,7 +3,10 @@ document.addEventListener("DOMContentLoaded", () => {
     // "id": "Ruta", (El id es el id del html)
     const recetas = {
         "espagueti-carbonara": "../IMG/espaguetis-carbonara.webp",
-        "mojito-fresa": "../IMG/mojito-fresa.webp"
+        "mojito-fresa": "../IMG/mojito-fresa.webp",
+        "pastel-galleta-crema-oreo": "../IMG/pastelGalletasCremaOreo.webp",
+        "donuts-fit": "../IMG/donutsFit.webp",
+        "palmeras-de-chocolate-fit": "../IMG/palmerasFit.webp"
     };
 
     // Crear contenedor de imagen
