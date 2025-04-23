@@ -17,8 +17,8 @@ header {
 }
 
 .logo {
-  width: 19em;
-  height: 19em;
+  max-width: 19em;
+  max-height: 19em;
   display: block;
 }
 
