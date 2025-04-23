@@ -1,6 +1,7 @@
 document.addEventListener("DOMContentLoaded", () => {
+    // Poner ruta de la imagen
     const recetas = {
-        "tarta-abuela": "../IMG/TartaAbuela.webp",
+        // "id": "Ruta", (El id es el id del html)
         "espagueti-carbonara": "../IMG/espaguetis-carbonara.webp",
         "mojito-fresa": "../IMG/mojito-fresa.webp"
     };
