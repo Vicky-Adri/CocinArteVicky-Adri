@@ -35,6 +35,8 @@ document.addEventListener("DOMContentLoaded", () => {
             if (recetas[id]) {
                 img.src = recetas[id];
                 modal.style.display = "flex";
+            } else {
+                alert("Lo sentimos no hemos encontrado la imagen de la receta.");
             }
         });
     });
