@@ -20,6 +20,7 @@ header {
   max-width: 19em;
   max-height: 19em;
   display: block;
+  margin: 0 auto;
 }
 
 h1 {
