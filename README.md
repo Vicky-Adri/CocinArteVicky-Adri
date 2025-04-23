@@ -18,13 +18,13 @@ Bienvenidos a **CocinArte Vicky&Adri**, una página web dedicada a compartir el 
 
 ## 👩‍🍳 Sobre nosotras
 
-Somos **Vicky y Adri**, dos apasionadas de la cocina que decidimos compartir nuestras recetas favoritas con el mundo. Creemos que cocinar es una forma de arte que une a las personas, y queremos ayudarte a disfrutarla tanto como nosotras.
+Somos **Vicky y Adri**, dos apasionados de la cocina que decidimos compartir nuestras recetas favoritas con el mundo. Creemos que cocinar es una forma de arte que une a las personas, y queremos ayudarte a disfrutarla tanto como nosotras.
 
 ---
 
 ## ✨ ¿Por qué CocinArte?
 
-Porque para nosotras, **cocinar es arte**. No se trata solo de mezclar ingredientes, sino de crear experiencias, emociones y momentos únicos alrededor de la comida.
+Porque para nosotros, **cocinar es arte**. No se trata solo de mezclar ingredientes, sino de crear experiencias, emociones y momentos únicos alrededor de la comida.
 
 ---
 
